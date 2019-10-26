@@ -1,4 +1,4 @@
-JetPack Compose - Release Date
+Android JetPack Compose
 ============================================================================
 
 Solution code for Advanced Android with Kotlin Codelab 
@@ -22,15 +22,14 @@ Pre-requisites
 You should be familiar with:
 
 * Kotlin Android ,Android Studio 4.0.
-<img class='header-img' src='https://ibb.co/2hprGWb' />
-
+[img]https://i.ibb.co/RbJKRY5/images-Now.png[/img]
 
 
 
 Getting Started
 ---------------
 
-1. Download Android Studio 4.0 Canary Version<p><strong>Download</strong>https://androidstudio.googleblog.com/2019/10/android-studio-40-canary-1-available.html</p>
+1. Download Android Studio 4.0 Canary Version<p><strong> Download</strong>https://androidstudio.googleblog.com/2019/10/android-studio-40-canary-1-available.html</p>
 2. Follow Google Resource  :<p><strong>Resource</strong>  https://developer.android.com/jetpack/compose</p>
 3. Clone The Project 
 4. Run the app.
