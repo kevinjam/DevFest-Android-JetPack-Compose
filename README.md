@@ -1,7 +1,9 @@
 Android JetPack Compose
 ============================================================================
 
-Solution code for Advanced Android with Kotlin Codelab 
+ScreenShot  Kotlin JetPack Compose
+<img class='header-img' src='https://i.ibb.co/RbJKRY5/images-Now.png' />
+
 
 Introduction
 ------------
@@ -31,5 +33,4 @@ Getting Started
 3. Clone The Project 
 4. Run the app.
 
-<img class='header-img' src='https://i.ibb.co/RbJKRY5/images-Now.png' />
 
