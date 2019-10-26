@@ -22,9 +22,6 @@ Pre-requisites
 You should be familiar with:
 
 * Kotlin Android ,Android Studio 4.0.
-[img]https://i.ibb.co/RbJKRY5/images-Now.png[/img]
-
-
 
 Getting Started
 ---------------
@@ -33,3 +30,6 @@ Getting Started
 2. Follow Google Resource  :<p><strong>Resource</strong>  https://developer.android.com/jetpack/compose</p>
 3. Clone The Project 
 4. Run the app.
+
+<img class='header-img' src='https://i.ibb.co/RbJKRY5/images-Now.png' />
+
